@@ -83,7 +83,6 @@ protected:
 	int initializationCounter;
 	YSBOOL firstStart,failedToRecordFirstLaunch;
 	FsGuiMainCanvas *mainCanvasPtr;
-
 	FsWorld *world;
 	FsOption opt;
 	FsFlightConfig cfg;
